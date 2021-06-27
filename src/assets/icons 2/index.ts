@@ -1,0 +1,16 @@
+export { default as SunIcon } from './CommonIcons/Sun';
+export { default as MoonIcon } from './CommonIcons/Moon';
+export { default as MenuIcon } from './CommonIcons/Menu';
+export { default as MysqlIcon } from './TechIcons/Mysql';
+export { default as NextIcon } from './TechIcons/Next';
+export { default as ReduxIcon } from './TechIcons/Redux';
+export { default as ReactIcon } from './TechIcons/React';
+export { default as CssIcon } from './TechIcons/Css';
+export { default as HtmlIcon } from './TechIcons/Html';
+export { default as JsIcon } from './TechIcons/Js';
+export { default as DownArrowIcon } from './CommonIcons/DownArrow';
+export { default as ScrollIcon } from './CommonIcons/Scroll';
+export { default as UpArrowIcon } from './CommonIcons/UpArrow';
+export { default as MacIcon } from './CommonIcons/Mac';
+export { default as PhoneIcon } from './CommonIcons/IPhone';
+export { default as DarkPhoneIcon } from './CommonIcons/DarkPhone';

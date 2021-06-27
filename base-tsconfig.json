@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@types": ["src/@types/index.d.ts"],
+        "@components/*": ["src/components/*"],
+        "@icons": ["src/assets/icons/index.ts"],
+        "@config/*": ["src/config/*"],
+        "@constants/*": ["src/constants/*"],
+        "@hooks/*": ["src/hooks/*"],
+        "@utils/*": ["src/utils/*"],
+        "@img/*": ["src/assets/images/*"]
+      }
+    }
+  }
